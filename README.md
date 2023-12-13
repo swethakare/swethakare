@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **UI/UX development | Full stack java development**
 
-- 👨‍💻 All of my projects are available at [http://54.226.235.154/Portfolio/](http://54.226.235.154/Portfolio/)
+- 👨‍💻 All of my projects are available at [http://18.204.66.163/Portfolio/](http://18.204.66.163/Portfolio/)
 
 - 💬 Ask me about **Oops | java**
 
@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swethakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swethakare" height="30" width="40" /></a>
+<a href="https://instagram.com/swetha_kare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swetha_kare" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swethakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swethakare" height="30" width="40" /></a>
 </p>
 
@@ -29,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethakare&show_icons=true&locale=en&layout=compact" alt="swethakare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethakare&show_icons=true&locale=en" alt="swethakare" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakare&" alt="swethakare" /></p>
