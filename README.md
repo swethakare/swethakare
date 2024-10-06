@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **AWS | devops**
 
-- 👯 I’m looking to collaborate on **UI/UX development | Full stack java development**
+- 👯 I’m looking to collaborate on ** Full stack java development | Backend Java Development**
+ 
+- 💬 Ask me about **Oops | java | Spring Boot | Microservices | Api's | Docker | Kubernetes**
 
-- 👨‍💻 All of my projects are available at [http://18.204.66.163/Portfolio/](http://18.204.66.163/Portfolio/)
-
-- 💬 Ask me about **Oops | java**
-
-- 📫 How to reach me **skare@gmu.edu**
+- 📫 How to reach me **swethakare9@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/swethakare/details/featured/](https://www.linkedin.com/in/swethakare/details/featured/)
 
