@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Swetha Kare</h1>
-<h3 align="center">A passionate Software Engineer with full stack experience in developing applications| Masters in Computer Science at George Mason University</h3>
+<h3 align="center">A passionate Software Engineer with full-stack experience in developing fintech applications| Master's in Computer Science at George Mason University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakare&label=Profile%20views&color=0e75b6&style=flat" alt="swethakare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swethakare" alt="swethakare" /></a> </p>
 
-- 🔭 I’m currently working on **Spring-boot - Student Management System**
+- 🔭 I’m currently working on **Renters Insurance with YARDI**
 
 - 🌱 I’m currently learning **AWS | devops**
 
 - 👯 I’m looking to collaborate on ** Full stack java development | Backend Java Development**
  
-- 💬 Ask me about **Oops | java | Spring Boot | Microservices | Api's | Docker | Kubernetes**
+- 💬 Ask me about **Oops | java | Spring Boot | Microservices | Api's | Docker | Kubernetes | Golang | Terraform | AWS **
 
 - 📫 How to reach me **swethakare9@gmail.com**
 
