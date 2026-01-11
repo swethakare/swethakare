@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetha Kare</h1>
-<h3 align="center">A passionate Software Engineer with full-stack experience in developing fintech applications| Master's in Computer Science at George Mason University</h3>
+<h3 align="center">A passionate Senior Software Engineer with full-stack experience in developing fintech applications| Master's in Computer Science at George Mason University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakare&label=Profile%20views&color=0e75b6&style=flat" alt="swethakare" /> </p>
 
