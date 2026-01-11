@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **AWS | devops**
 
-- 👯 I’m looking to collaborate on ** Full stack java development | Backend Java Development**
+- 👯 I’m looking to collaborate on **Full stack java development | Backend Java Development**
  
-- 💬 Ask me about **Oops | java | Spring Boot | Microservices | Api's | Docker | Kubernetes | Golang | Terraform | AWS **
+- 💬 Ask me about **Oops | java | Spring Boot | Microservices | Api's | Docker | Kubernetes | Golang | Terraform | AWS**
 
 - 📫 How to reach me **swethakare9@gmail.com**
 
